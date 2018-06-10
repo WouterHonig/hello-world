@@ -1,2 +1,2 @@
 # hello-world
-Something Random
+I made some random changes cuz I like it
